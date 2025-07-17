@@ -1,4 +1,4 @@
--- Task 3: Event Mangement System
+-- Task 3: Event Management System
 
 -- 1. Database Creation: 
 
